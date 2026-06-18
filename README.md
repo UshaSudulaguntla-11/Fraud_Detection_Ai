@@ -57,7 +57,7 @@ https://github.com/UshaSudulaguntla-11/Fraud_Detection_Ai/tree/main/assets
 
 
 ```
-🔗 Live Demo: [Coming Soon]
+🔗 Live Demo: https://fraud-detection-ai-1-k4f0.onrender.com/
 ```
 
 ---
