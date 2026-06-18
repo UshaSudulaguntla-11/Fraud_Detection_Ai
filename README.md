@@ -53,13 +53,8 @@ Machine learning offers a powerful alternative — but ML models are often treat
 <!-- Screenshot placeholders -->
 <!-- Add screenshots of your running application here -->
 
-> **📸 Screenshots Coming Soon**
->
-> To add screenshots, run the app locally and capture:
-> 1. Home page with feature overview
-> 2. Single prediction page with SHAP force plot
-> 3. Batch scanner with uploaded results
-> 4. Analytics dashboard with visualizations
+https://github.com/UshaSudulaguntla-11/Fraud_Detection_Ai/tree/main/assets
+
 
 ```
 🔗 Live Demo: [Coming Soon]
