@@ -338,11 +338,10 @@ copies or substantial portions of the Software.
 
 ## 👤 Author
 
-**Your Name**
+Sudulaguntla Usha Chowdary
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@yourusername](https://github.com/UshaSudulaguntla-11/)
+
 
 ---
 
